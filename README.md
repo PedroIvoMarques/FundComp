@@ -6,12 +6,12 @@
 ## Codigos adicionais que forem usados em monitoria :
 
  
-  ### Duvidas :
+###    Duvidas :
 
 ```
 ```
  
-  ### Algoritimos :
+###   Algoritimos :
 
 - `Bubble Sort`
 
@@ -19,7 +19,7 @@
 
 - `Pesquisa Binaria`
 
- ### Resolução de provas:
+###   Resolução de provas:
 
 # _________________________________________________________________
-  >Qualquer outra coisa que possa surgir que deva entrar
+  >*Qualquer outra coisa que possa surgir que deva entrar.*
