@@ -21,7 +21,5 @@
 
  ### Resolução de provas:
 
-```
-```
 # _________________________________________________________________
   >Qualquer outra coisa que possa surgir que deva entrar
