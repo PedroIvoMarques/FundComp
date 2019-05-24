@@ -14,7 +14,7 @@
 
 ###   Algoritimos :
 
-- `Bubble Sort`
+- [`Bubble Sort`](https://github.com/PedroIvoMarques/FundComp/blob/master/Algoritimos/Bsort.py)
 
 - `Short Bubble`
 
