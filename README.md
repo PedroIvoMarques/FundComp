@@ -47,8 +47,13 @@ E-mail e whatsapp são ferramentas auxiliares , tentarei tirar duvidas porém n�
 
 ```
 
-## Ferramenta extra :
+## Ferramentas extras :
 
+### Listas de exercicios :
+
+- [`Lista 1 IPD`]
+
+- [`Lista 2 IPD`]
 # _________________________________________________________________
 
 >*Qualquer outra coisa que possa surgir que deva entrar.*
