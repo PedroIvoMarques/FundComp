@@ -49,6 +49,11 @@ E-mail e whatsapp são ferramentas auxiliares , tentarei tirar duvidas porém n�
 
 ## Ferramentas extras :
 
+### Python tutor :
+
+>*Execelente para visualizar melhor programas e algorimos, indo passo a passo e verificando as mudanças que ocorrem com as variáveis.*
+- [`Python Tutor - Online`](http://www.pythontutor.com)
+
 ### Listas de exercicios :
 
 - [`Lista 1 IPD`](https://github.com/PedroIvoMarques/FundComp/blob/master/Listas%20IDP/Lista_Execicios_Algoritmos-01.pdf)
