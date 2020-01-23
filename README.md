@@ -51,8 +51,8 @@ E-mail e whatsapp são ferramentas auxiliares , tentarei tirar duvidas porém n�
 
 ### Python tutor :
 
->*Execelente para visualizar melhor programas e algorimos, indo passo a passo e verificando as mudanças que ocorrem com as variáveis.*
-- [`Python Tutor - Online`](http://www.pythontutor.com)
+>*Apesar do nome essa ferramenta online trabalha com outras linguagens alem de python. Ela é execelente para visualizar melhor os programas e algorimos* **(feitos durante o curso ou até mesmo em outros)** *, indo passo a passo e verificando as mudanças que ocorrem com as variáveis.*
+- [`Python Tutor`](http://www.pythontutor.com)
 
 ### Listas de exercicios :
 
