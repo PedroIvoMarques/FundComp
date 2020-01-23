@@ -51,9 +51,9 @@ E-mail e whatsapp são ferramentas auxiliares , tentarei tirar duvidas porém n�
 
 ### Listas de exercicios :
 
-- [`Lista 1 IPD`]
+- [`Lista 1 IPD`](https://github.com/PedroIvoMarques/FundComp/blob/master/Listas%20IDP/Lista_Execicios_Algoritmos-01.pdf)
 
-- [`Lista 2 IPD`]
+- [`Lista 2 IPD`](https://github.com/PedroIvoMarques/FundComp/blob/master/Listas%20IDP/Lista_Execicios_Algoritmos-02.pdf)
 # _________________________________________________________________
 
 >*Qualquer outra coisa que possa surgir que deva entrar.*
