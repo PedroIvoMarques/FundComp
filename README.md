@@ -35,9 +35,9 @@ E-mail e whatsapp são ferramentas auxiliares , tentarei tirar duvidas porém n�
 
 >*Alguns algoritimos que serão apresentados durante o curso (atualização pendente)*
 
-- [`Bubble Sort`](https://github.com/PedroIvoMarques/FundComp/blob/master/Algoritimos/Bsort.py)
+- [`Bubble Sort`](https://tinyurl.com/sto9apy)
 
-- `Short Bubble`
+- [`Short Bubble`](https://tinyurl.com/t87jp5y)
 
 - `Pesquisa Binaria`
 
