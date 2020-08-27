@@ -4,7 +4,7 @@
 #### O curso de Fundamentos destina-se ao Bacharelado em Ciência da Computação.
 #### O curso de IPD destina-se aos alunos de Eng. e Todos os cursos do IME. 
 #### Trata-se do primeiro contato, para muitos alunos, com algoritmos e lógica de programação.
-#### A implementação dos algoritmos será com a linguagem Python versão 3.x .
+#### A implementação dos algoritmos será com a linguagem Python versão 3.x..
 
 ### Karla
 - [ ] [Pagina do curso no AVA](https://ead.uerj.br/ava/course/view.php?id=286)
