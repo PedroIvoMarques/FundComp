@@ -6,28 +6,23 @@
 #### Trata-se do primeiro contato, para muitos alunos, com algoritmos e lógica de programação.
 #### A implementação dos algoritmos será com a linguagem Python versão 3.x..
 
-### Karla
-- [ ] [Pagina do curso no AVA](https://ead.uerj.br/ava/course/view.php?id=286)
-
 
 ### Rojas
-- [ ] [Pagina do curso no AVA](https://ead.uerj.br/ava/course/view.php?id=272)
+- [ ] [Pagina do curso no AVA](https://ava.pr1.uerj.br/course/view.php?id=946)
 
 
 ## Monitoria
 
 ### Horarios :    
 
-#### 2ª e 4ª nos tempos T1 a T2
+#### xxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 ###    Duvidas :
 
 
 ```
-duvidas podem ser Tiradas durante a monitoria , bem como em horario alternativo -- à combinar --
-
-E-mail e whatsapp são ferramentas auxiliares , tentarei tirar duvidas porém não é o ideal
+Primariamente discord e e-mail
 
 ```
 
