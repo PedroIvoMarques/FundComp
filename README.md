@@ -2,12 +2,11 @@
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
 #### O curso de Fundamentos destina-se ao Bacharelado em Ciência da Computação.
-#### O curso de IPD destina-se aos alunos de Eng. e Todos os cursos do IME. 
 #### Trata-se do primeiro contato, para muitos alunos, com algoritmos e lógica de programação.
 #### A implementação dos algoritmos será com a linguagem Python versão 3.x..
 
 
-### Rojas
+### Professor Alexandre Rojas
 - [ ] [Pagina do curso no AVA](https://ava.pr1.uerj.br/course/view.php?id=946)
 
 
@@ -51,9 +50,12 @@ Primariamente discord e e-mail
 
 ### Listas de exercicios :
 
+#### Deixar ou não ipd ?
+
 - [`Lista 1 IPD`](https://github.com/PedroIvoMarques/FundComp/blob/master/Listas%20IDP/Lista_Execicios_Algoritmos-01.pdf)
 
 - [`Lista 2 IPD`](https://github.com/PedroIvoMarques/FundComp/blob/master/Listas%20IDP/Lista_Execicios_Algoritmos-02.pdf)
+
 # _________________________________________________________________
 
 >*Qualquer outra coisa que possa surgir que deva entrar.*
